@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ludovic a Blockchain Game Engineer
-## I am pationnate about blockchain tech and videogames ! (This ReadMe is a WIP)
+## I am pationnate about blockchain tech and videogames !
 
 - 🔭 I’m currently searching for my next mission !
 - 🌱 I’m currently learning NodeJS to be able to create nice looking dapps
@@ -7,26 +7,27 @@
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ludovicdomingues/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ludovicdomingues/#gh-dark-mode-only)
-&nbsp;&nbsp;
+[<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ludovicdomingues/)
 
-### Languages and Tools:
-
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C#" width="26px" src="" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />]
 <br />
 <br />
 
-### Latest Projects I have been working on 
-<!-- Projects-LIST:START -->
-- [Unity Blockchain SDK](https://github.com/Ankr-network/game-unity-sdk)
-- LOOTING Plateform
-- GIVEUS Dapp
-<!-- Projects-LIST:END -->
+## 🧰 &nbsp;My toolbox
+<img align="left" alt="Solidity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Unity" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
+
+<br />
+<br />
+
+## 🖥 &nbsp;Past Open Source Work
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankr-network&repo=game-unity-sdk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ankr-network/game-unity-sdk) &nbsp;
+
+## 📊 &nbsp;Stats
 <!-- STATS-LIST:START -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krayt78&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krayt78&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krayt78&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <!-- STATS-LIST:END -->
