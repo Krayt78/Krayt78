@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Ludovic a Blockchain Game Engineer
-## I am pationnate about blockchain tech and videogames !
+## I am passionate about blockchain tech and video games!
 
 - 🔭 I’m currently searching for my next mission !
 - 🌱 I’m currently learning NodeJS to be able to create nice looking dapps
