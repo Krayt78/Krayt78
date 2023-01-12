@@ -23,11 +23,11 @@
 <br />
 <br />
 
-## 🖥 &nbsp;Past Open Source Work
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ankr-network&repo=game-unity-sdk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ankr-network/game-unity-sdk) &nbsp;
+## 🖥 &nbsp;Past Open Source Work https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ankr-network&repo=game-unity-sdk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ankr-network/game-unity-sdk) &nbsp;
 
 ## 📊 &nbsp;Stats
 <!-- STATS-LIST:START -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krayt78&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krayt78&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=krayt78&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=krayt78&layout=compact&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 <!-- STATS-LIST:END -->
