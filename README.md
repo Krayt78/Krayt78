@@ -23,7 +23,7 @@
 <br />
 <br />
 
-## 🖥 &nbsp;Past Open Source Work https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
+## 🖥 &nbsp;Past Open Source Work
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ankr-network&repo=game-unity-sdk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ankr-network/game-unity-sdk) &nbsp;
 
 ## 📊 &nbsp;Stats
