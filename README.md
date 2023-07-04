@@ -1,9 +1,14 @@
 ### Hi there 👋, I am Ludovic a Blockchain Game Engineer
 ## I am passionate about blockchain tech and video games!
 
-- 🔭 I’m currently searching for my next mission !
-- 🌱 I’m currently learning NodeJS to be able to create nice looking dapps
+- 🔭 I mainly take care of working on dapps and web3 games.
+
+  I am skilled with C#/Unity/Solidity/NodeJs/React.
+
+  Always looking for new missions ! I am open to employee work or freelancing gigs.
 - 📫 How to reach me: ludovic.domingues96@gmail.com
+
+
 
 ### Connect with me:
 
