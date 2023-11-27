@@ -1,11 +1,19 @@
-### Hi there 👋, I am Ludovic a Blockchain Game Engineer
-## I am passionate about blockchain tech and video games!
+## Hi there 👋, Welcome to my GitHub space!
+### I'm Ludovic, a passionate game developer and blockchain enthusiast on a mission to bring digital worlds to life!
 
-- 🔭 I mainly take care of working on dapps and web3 games.
+With a background in C#, Solidity, Unity and React, I merge creativity with technical prowess.
+###  🎮 Game Development:
+- Crafting immersive experiences
+- Dungeon Mastering in Dungeons and Dragons
+###  🔗 Blockchain World:
+- Solidity for decentralized applications
+###  💻 Tech Stack:
+- Languages: C#, Solidity, Node.js
+- Frameworks: Unity, React
+###  🌍 Freelancer | Remote Collaborator:
+I thrive in the global, remote landscape—transforming concepts into reality. Whether you're into game development or exploring the possibilities of blockchain, let's collaborate and innovate together!
 
-  I am skilled with C#/Unity/Solidity/NodeJs/React.
-
-  Always looking for new missions ! I am open to employee work or freelancing gigs.
+Feel free to explore my repositories, and let's connect for exciting coding adventures!
 - 📫 How to reach me: ludovic.domingues96@gmail.com
 
 
