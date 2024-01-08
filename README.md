@@ -3,6 +3,7 @@
 
 With a background in C#, Solidity, Unity and React, I merge creativity with technical prowess.
 ###  🎮 Game Development:
+- Create games in either Unity, Unreal or Godot
 - Crafting immersive experiences
 - Dungeon Mastering in Dungeons and Dragons
 ###  🔗 Blockchain World:
