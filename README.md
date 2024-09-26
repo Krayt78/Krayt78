@@ -39,6 +39,8 @@ Feel free to explore my repositories, and let's connect for exciting coding adve
 
 ## 🖥 &nbsp;Past Open Source Work
 [![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Ankr-network&repo=game-unity-sdk&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/Ankr-network/game-unity-sdk) &nbsp;
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=cometh-hq&repo=connect-sdk-unity&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/cometh-hq/connect-sdk-unity) &nbsp;
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=GiveUsDev&repo=GiveUsContracts&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/GiveUsDev/GiveUsContracts) &nbsp;
 
 ## 📊 &nbsp;Stats
 <!-- STATS-LIST:START -->
