@@ -1,7 +1,7 @@
 ## Hi there 👋, Welcome to my GitHub space!
 ### I'm Ludovic, a passionate game developer and blockchain enthusiast on a mission to bring digital worlds to life!
 
-With a background in C#, Solidity, Unity, React, and Rust, I merge creativity with technical prowess.
+With a background in C#, Solidity, Unity, React, Substrate and Rust, I merge creativity with technical prowess.
 
 ###  💻 Tech Stack:
 - Languages: C#, Solidity, JavaScript, Rust
