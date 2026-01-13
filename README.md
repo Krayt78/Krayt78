@@ -1,30 +1,30 @@
-## Hi there 👋, Welcome to my GitHub space!
-### I'm Ludovic, a passionate game developer and blockchain enthusiast on a mission to bring digital worlds to life!
+# Hi, I'm Ludo 👋
 
-With a background in C#, Solidity, Unity, React, Substrate and Rust, I merge creativity with technical prowess.
+Senior Software Engineer focused on **Blockchain/Web3**, **game development (C# / Unity)**, and **web development**.  
+I build gameplay systems, product-ready web apps, and blockchain tooling - from **Solidity smart contracts** to **Rust** codebases.
 
-###  💻 Tech Stack:
-- Languages: C#, Solidity, JavaScript, Rust
-- Frameworks: Unity, React, Node.js, Polkadot SDK, Substrate, Frame
+## What I do
+- 🎮 **Game Development:** C#-first engineering in Unity (systems, tooling, performance, gameplay architecture)
+- 🌐 **Web Development:** modern frontend/backend delivery (apps, APIs, integrations)
+- 🔗 **Web3 Development:** smart contracts, dApps, and ecosystem tooling (EVM + Polkadot/Substrate stack)
+- 🦀 **Rust:** systems-level development and blockchain-oriented programming
 
-###  🔗 Blockchain World:
-- Expertise in Solidity for decentralized applications
-- Skilled in Polkadot/Substrate ecosystem development
-- Experience with EVM and cross-chain blockchain architectures
-  
-###  🎮 Game Development:
-- Create games in either Unity, Unreal or Godot
-- Crafting immersive experiences
-- Dungeon Mastering in Dungeons and Dragons
+## Current roles
+- 🧑‍🏫 **Technical Specialist - Polkadot Blockchain Academy**  
+  I design and maintain the technical curriculum, build/maintain internal tooling, and handle the “everything technical” needs of the org.
+- 🧩 **Core Blockchain Dev - Polkadot Technical Fellowship**  
+  Contributing in maintaining and upgrading the polkadot blockchain via the frame pallets.
 
-###  🌍 Freelancer | Remote Collaborator:
-I thrive in the global, remote landscape—transforming concepts into reality. Whether you're into game development or exploring the endless possibilities of blockchain, I’m here to collaborate and innovate with you.
+## Tech I use often
+**Languages:** C#, Rust, Solidity, TypeScript/JavaScript  
+**Game:** Unity  
+**Web:** React, Node.js  
+**Blockchain:** Polkadot SDK / Substrate / FRAME, EVM
 
-Feel free to explore my repositories, and let's connect for exciting coding adventures!
-- 📫 How to reach me: ludovic.domingues96@gmail.com
-
-
-
-### Connect with me:
+## Let’s connect
+- 📫 Email: **ludovic.domingues96@gmail.com**
+- 🔗 LinkedIn / X / Website:
 
 [<img align="left" alt="linkedin" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />](https://www.linkedin.com/in/ludovicdomingues/)
+[<img align="left" alt="twitter" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" style="padding-right:10px;" />](https://x.com/Krayt78)
+
