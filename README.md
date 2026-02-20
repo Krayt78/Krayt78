@@ -1,4 +1,4 @@
-# Hi, I'm Ludo 👋
+# Hi, I'm Ludo 👋 
 
 Senior Software Engineer focused on **Blockchain/Web3**, **game development (C# / Unity)**, and **web development**.  
 I build gameplay systems, product-ready web apps, and blockchain tooling - from **Solidity smart contracts** to **Rust** codebases.
